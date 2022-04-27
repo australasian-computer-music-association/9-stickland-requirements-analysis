@@ -1038,77 +1038,77 @@ collaborative environment could consider achieving this goal.
 # References
 
 Ableton AG (n.d.). Live (Version 11) \[Computer Program\]: Ableton AG. 
-Retrieved 1 August 2021, from https://www.ableton.com/en/live/
+Retrieved 1 August 2021, from <https://www.ableton.com/en/live/>
 
 AmpTrack Technologies AB. (2021). Make music online - Amped Studio online sequencer. 
-Retrieved 1 August 2021, from https://ampedstudio.com/
+Retrieved 1 August 2021, from <https://ampedstudio.com/>
 
 Apple Inc. (2017). What is Core Audio? 
 Retrieved 16 June 2020, from 
-https://developer.apple.com/library/archive/documentation/MusicAudio/Conceptual/CoreAudioOverview/WhatisCoreAudio/WhatisCoreAudio.html
+<https://developer.apple.com/library/archive/documentation/MusicAudio/Conceptual/CoreAudioOverview/WhatisCoreAudio/WhatisCoreAudio.html>
 
 Apple Inc. (2021a). GarageBand for Mac (Version 10.4.3) \[Computer Program\]: Apple Inc. 
-Retrieved 1 August 2021, from https://www.apple.com/au/mac/garageband/
+Retrieved 1 August 2021, from <https://www.apple.com/au/mac/garageband/>
 
 Apple Inc. (2021b). iCloud. 
-Retrieved 1 August 2021, from https://www.icloud.com/
+Retrieved 1 August 2021, from <https://www.icloud.com/>
 
 Apple Inc. (2021c). Logic Pro (Version 10.6) \[Computer Program\] Cupertino, United States of America: Apple Inc. 
-Retrieved 28 July 2021, from https://www.apple.com/au/logic-pro/
+Retrieved 28 July 2021, from <https://www.apple.com/au/logic-pro/>
 
 Audiotool.com. (2021). Audiotool - Free Music Software - Make Music Online In Your Browser. 
-Retrieved 1 August 2021, from https://www.audiotool.com/
+Retrieved 1 August 2021, from <https://www.audiotool.com/>
 
 Avid Technology Inc. (2021). Pro Tools (Version 2021.6) \[Computer Program\] Burlington, United States of America: Avid Technology Inc. 
-Retrieved 28 July 2021, from https://www.avid.com/pro-tools
+Retrieved 28 July 2021, from <https://www.avid.com/pro-tools>
 
 BandLab Technologies. (2021). BandLab: Make Music Online. 
-Retrieved 1 August 2021, from https://www.bandlab.com/
+Retrieved 1 August 2021, from <https://www.bandlab.com/>
 
 Cockos Inc. (2021). REAPER (Version 6.33) \[Computer Program\] New York, United States: Cockos Inc. 
-Retrieved 18 December 2020, from https://www.reaper.fm/download.php?from_reaper=1
+Retrieved 18 December 2020, from <https://www.reaper.fm/download.php?from_reaper=1>
 
 Dropbox Inc. (n.d.). Manage Your Work More Efficiently - Dropbox Professional. 
-Retrieved 1 August 2021, from https://www.dropbox.com/pro
+Retrieved 1 August 2021, from <https://www.dropbox.com/pro>
 
 Google LLC. (2020). Google Drive: Free Cloud Storage for Personal Use. 
-Retrieved 7 March 2020, from https://www.google.com/drive/
+Retrieved 7 March 2020, from <https://www.google.com/drive/>
 
 Gregory, Mark A. (2019). How to Transition the National Broadband Network to Fibre To The Premises. 
 *Journal of Telecommunications and the Digital Economy, 7*(1), 57-67. 
-DOI: https://doi.org/https://www.doi.org/10.18080/jtde.v7n1.182
+DOI: [10.18080/jtde.v7n1.182](https://www.doi.org/10.18080/jtde.v7n1.182)
 
 Mark of the Unicorn Inc. (2021). Digital Performer (Version 11) \[Computer Program\]: Mark of the Unicorn Inc. 
-Retrieved 1 August 2021, from https://motu.com/en-us/products/software/dp/
+Retrieved 1 August 2021, from <https://motu.com/en-us/products/software/dp/>
 
 Sethi, Rounik. (2018). Top 12 Most Popular DAWs (You Voted For). *Ask.Audio*. 
-Retrieved 2 August 2021, from https://ask.audio/articles/top-12-most-popular-daws-you-voted-for
+Retrieved 2 August 2021, from <https://ask.audio/articles/top-12-most-popular-daws-you-voted-for>
 
-Smith, Jonathan A. (2004). Reflecting on the development of interpretative phenomenological analysis and its contribution to qualitative research in psychology. *Qualitative Research in Psychology, 1*(1), 39-54. DOI: https://doi.org/https://doi.org/10.1191/1478088704qp004oa
+Smith, Jonathan A. (2004). Reflecting on the development of interpretative phenomenological analysis and its contribution to qualitative research in psychology. *Qualitative Research in Psychology, 1*(1), 39-54. DOI: [10.1191/1478088704qp004oa](https://doi.org/10.1191/1478088704qp004oa)
 
 Splice.com. (2022). Collaborate with Splice Studio \| Splice. 
-Retrieved 4 February 2022, from https://splice.com/features/studio
+Retrieved 4 February 2022, from <https://splice.com/features/studio>
 
 Spotify USA / Spotify AB. (2021). Soundtrap - Make music online. 
-Retrieved 1 August 2021, from https://www.soundtrap.com/
+Retrieved 1 August 2021, from <https://www.soundtrap.com/>
 
 Steinberg Media Technologies GmbH. (2020). Technologies \| Steinberg. 
-Retrieved 17 June 2020, from https://www.steinberg.net/en/company/technologies.html
+Retrieved 17 June 2020, from <https://www.steinberg.net/en/company/technologies.html>
 
 Steinberg Media Technologies GmbH (2021a). Cubase Pro (Version 11.0.3) \[Computer Program\] Hamburg, Germany: Steinberg Media Technologies GmbH. 
-Retrieved 11 November 2020, from https://new.steinberg.net/cubase/new-features/
+Retrieved 11 November 2020, from <https://new.steinberg.net/cubase/new-features/>
 
 Steinberg Media Technologies GmbH. (2021b). VST Transit: Music cloud collaboration \| Steinberg. 
-Retrieved 1 August 2021, from https://new.steinberg.net/vst-transit/?et_cid=15&et_lid=22&et_sub=VST%2520Transit
+Retrieved 1 August 2021, from <https://new.steinberg.net/vst-transit/>
 
 wac2017 qmul. (2017). *Web Audio Conference 2017 (WAC2017 QMUL) Day 1 - Afternoon* \[Video File\] 
-Retrieved 2 June 2020, from https://www.youtube.com/watch?v=OpUeyRRPpCo&feature=youtu.be&t=957
+Retrieved 2 June 2020, from <https://www.youtube.com/watch?v=OpUeyRRPpCo&feature=youtu.be&t=957>
 
 Waves Audio Ltd. (2021). Tracks Live - Multitrack Recording Software \| Waves. 
-Retrieved 1 August 2021, from https://www.waves.com/mixers-racks/tracks-live#presenting-tracks-live
+Retrieved 1 August 2021, from <https://www.waves.com/mixers-racks/tracks-live>
 
 WeTransfer. (2021). Products \| WeTransfer. 
-Retrieved 1 August 2021, from https://about.wetransfer.com/en/products/
+Retrieved 1 August 2021, from <https://about.wetransfer.com/products/>
 
 # Appendix: Interview Guide Questions
 
