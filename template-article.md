@@ -1,5 +1,5 @@
 ---
-title: 'Requirements Analysis for a Remote DAW Collaboration Platform: A Qualitative Study'
+title: 'Professional Views of Digital Audio Workstations and Collaborative Audio Mixing'
 date: '2021-11-12'
 anonymous: 'false'
 author: 
@@ -11,7 +11,7 @@ author:
       affiliation: School of Creative Industries, The University of Newcastle, Australia
 author-header: S. Stickland, R. Athauda, and N. Scott
 abstract: |
-    Digital audio workstations (DAWs) play a critical role in audio mixing and post-production activities, facilitating audio engineers and clients to work collaboratively in a studio environment. The coronavirus pandemic brought into focus the need to carry out these activities in an effective manner with remote participants. This paper explores the requirements for an optimal remote collaboration platform to facilitate post-production audio mixing through a qualitative study. We interviewed a group of Australian-based professional music/sound practitioners about their use of DAWs, work-case scenarios, use of remote control and collaboration features, and perspectives for an "ideal" remote collaborative music post-production environment. We derived several insights from the analysis of this data that can inform the design and development of a new collaboration platform. The evidence showed that the most common practice for remote mixing collaboration is an iterative process of sharing audio files/recordings with audio engineers who perform mixing/post-production work, which is shared back with clients for feedback asynchronously. Professional audio mixing practitioners do not normally engage in real-time remote collaboration outside of remote one-to-one sound source recording because synchronous post-production collaboration methods are unavailable. Our analysis derives a vision for such a platform: a "virtual" remote collaboration environment that emulates an in-studio experience.
+	Digital audio workstations (DAWs) play a critical role in audio mixing and post-production activities, facilitating audio engineers and clients to work collaboratively in a studio environment. The coronavirus pandemic brought into focus the need to carry out these activities in an effective manner with remote participants. This article explores the requirements for an optimal remote collaboration platform to facilitate post-production audio mixing through a qualitative study. We interviewed a group of Australian-based professional music/sound practitioners about their use of DAWs, work-case scenarios, use of remote control and collaboration features, and perspectives for an "ideal" remote collaborative music post-production environment. We derived several insights from the analysis of this data that can inform the design and development of a new collaboration platform. The evidence showed that the most common practice for remote mixing collaboration is an iterative process of sharing audio files/recordings with audio engineers who perform mixing/post-production work, which is shared back with clients for feedback asynchronously. Professional audio mixing practitioners do not typically engage in real-time remote collaboration outside of remote one-to-one sound source recording because synchronous post-production collaboration methods are unavailable. Our analysis derives a vision for such a platform: a "virtual" remote collaboration environment that emulates an in-studio experience.
 bibliography: 'references'
 papersize: a4
 classoption: 12pt
@@ -39,7 +39,7 @@ for professional audio mixing and post-production. We conducted a series
 of semi-structured interviews with professional audio mixing and music
 production engineers to answer this central research question.
 
-This paper presents an interpretative phenomenological analysis (IPA) of
+This article presents an interpretative phenomenological analysis (IPA) of
 the responses from the semi-structured interviews. The IPA approach, as
 defined by Smith (2004), is: ideographic, characterised by a detailed
 sequential examination of each case in a small sample size; inductive,
@@ -71,7 +71,7 @@ and aimed to ascertain several viewpoints, including:
     production online collaboration.
 
 Six questions served as the interview guide and discussion starting
-points and appear in the Appendix. As such, this paper's structure
+points and appear in the Appendix. As such, this article's structure
 consists of six discrete sections that inductively analyse the responses
 to the interview questions and any related follow-up questions, followed
 by a Discussion section.
@@ -80,24 +80,23 @@ Table 1 summarises the research participant information.
 
 
 +-------------+-------------+-------------+-------------+-------------+
-|             | Base of     | Studio      | Typical     | Experience (Years) |
-|             | Operations  | Own         | Work        |             |
-|             | (Australian | er/Operator | Scenarios   |             |
-|             | State)      | /           |             |             |
-|             |             | Freelance   |             |             |
+|             | **Base of   | **Studio    | **Typical   | **Experience|
+|             | Operations  | Owner/      | Work        | (Years)**   |
+|             | (Australian | Operator /  | Scenarios** |             |
+|             | State)**    | Freelance** |             |             |
 +=============+=============+=============+=============+=============+
-| Mixing      | Victoria    | Own         | Studio      | 10 +        |
-| Engineer 1  |             | er/Operator | Mixing /    |             |
+| Mixing      | Victoria    | Owner/      | Studio      | 10 +        |
+| Engineer 1  |             | Operator    | Mixing /    |             |
 |             |             |             | Recording   |             |
 | (ME01)      |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Victoria    | Own         | Studio      | 15 +        |
-| Engineer 2  |             | er/Operator | Mixing /    |             |
+| Mixing      | Victoria    | Owner/      | Studio      | 15 +        |
+| Engineer 2  |             | Operator    | Mixing /    |             |
 |             |             |             | Recording   |             |
 | (ME02)      |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-| Mixing      | New South   | Own         | Studio      | 25 +        |
-| Engineer 3  | Wales       | er/Operator | Mixing /    |             |
+| Mixing      | New South   | Owner/      | Studio      | 25 +        |
+| Engineer 3  | Wales       | Operator    | Mixing /    |             |
 |             |             |             | Recording   |             |
 | (ME03)      |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
@@ -106,13 +105,13 @@ Table 1 summarises the research participant information.
 |             |             |             | Mixing      |             |
 | (ME04)      |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Victoria    | Own         | Studio      | 15 +        |
-| Engineer 5  |             | er/Operator | Mixing /    |             |
+| Mixing      | Victoria    | Owner/      | Studio      | 15 +        |
+| Engineer 5  |             | Operator    | Mixing /    |             |
 |             |             |             | Recording   |             |
 | (ME05)      |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Western     | Own         | Studio      | 20 +        |
-| Engineer 6  | Australia   | er/Operator | Mixing /    |             |
+| Mixing      | Western     | Owner/      | Studio      | 20 +        |
+| Engineer 6  | Australia   | Operator    | Mixing /    |             |
 |             |             |             | Recording   |             |
 | (ME06)      |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
@@ -121,13 +120,13 @@ Table 1 summarises the research participant information.
 |             |             |             | Recording   |             |
 | (ME07)      |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-| Mixing      | New South   | Own         | Studio      | 10 +        |
-| Engineer 8  | Wales       | er/Operator | Mixing      |             |
+| Mixing      | New South   | Owner/      | Studio      | 10 +        |
+| Engineer 8  | Wales       | Operator    | Mixing      |             |
 |             |             |             |             |             |
 | (ME08)      |             | Freelance   |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Victoria    | Own         | Live /      | 30 +        |
-| Engineer 9  |             | er/Operator | Studio      |             |
+| Mixing      | Victoria    | Owner/      | Live /      | 30 +        |
+| Engineer 9  |             | Operator    | Studio      |             |
 |             |             |             | Mixing      |             |
 | (ME09)      |             | Freelance   |             |             |
 +-------------+-------------+-------------+-------------+-------------+
@@ -249,6 +248,21 @@ collaborative purposes:
 > "There is an online DAW out there called BandLab, which... I wouldn't
 > want to use it for the sake of working with someone online." -ME09
 
+While the browser-based user environment and cloud storage are well-suited
+to online collaboration, the responses suggest that browser-based DAWs
+such as BandLab, Spotify's Soundtrap (Spotify USA / Spotify AB, 2021), 
+AmpTrack Technologies' Amped Studio (AmpTrack Technologies AB, 2021) and
+Audiotool (Audiotool.com, 2021), are yet to see mainstream acceptance in
+professional mixing of recorded music. While not explicitly discussed in
+the interviews, this eschewing of browser-based DAWs could be due to their
+incompatibility with existing VST-, AU- and AAX-based plug-ins.
+Furthermore, while developer efforts have resulted in progressive
+improvements to input and output latencies (wac2017 qmul, 2017), the Web
+Audio API, upon which these DAWs are constructed, cannot provide the same
+low-latency response as that seen in the long-established Audio Stream
+Input/Output (ASIO) (Steinberg Media Technologies GmbH, 2020) or Core Audio
+(Apple Inc., 2017) protocols.
+
 Interestingly, several engineers mentioned utilising at least two DAW
 applications depending on the type of work:
 
@@ -316,7 +330,7 @@ participants, *Cubase Pro* for two and *Logic Pro* for one. ME03, who
 stated that when "doing some mixdown stuff, it would either be...
 *Digital Performer* or... *Logic* and the occasional *Pro Tools*, but
 not as much", did not differentiate between *Digital Performer* and
-*Logic Pro*. Therefore, they have both been attributed to the
+*Logic Pro*. Therefore, they have been attributed to the
 participant, but with a 50% weighting. Figure 2 shows this distribution
 of DAW platforms for studio-based audio mixing.
 
@@ -656,6 +670,13 @@ for collaboration purposes:
 
 -   *iCloud* (Apple Inc., 2021b).
 
+Interestingly, cloud-based applications designed explicitly for DAW
+project backup, version cataloguing and rollback and remote collaboration,
+such as *Splice Studio* (Splice.com, 2022), were not mentioned. It could
+well have been that the participants were unaware of such platforms or,
+as seen with *Cloud Collaboration* and *VST Transit*, their similarity to
+existing cloud storage platforms precluded their adoption.
+
 Figure 3 shows the range and choice of cloud storage options across
 eight of the nine participants. Note that ME03 did acknowledge the ease
 of file sharing today but did not mention any particular platform.
@@ -977,7 +998,7 @@ would be chaotic and not especially conducive to a cohesive workflow.
 
 # Conclusion
 
-This paper presented a qualitative research study that
+This article presented a qualitative research study that
 phenomenologically analyses the current use of DAWs, their role in audio
 mixing and post-production, features used for remote collaboration and
 current professional practices. After conducting semi-structured
@@ -987,7 +1008,7 @@ the data. Accordingly, the study resulted in the identification of
 several significant inductive insights.
 
 DAWs play an integral role in professional audio engineers work and
-practice, with *Pro Tools* being the most popular platform. Typical DAW
+practice, with Pro Tools being the most popular platform. Typical DAW
 use includes activities, such as studio-based audio recording,
 studio-based post-production audio mixing and live multitrack audio
 recording. Although audio mixing is a collaborative process, and some
@@ -995,91 +1016,99 @@ DAW platforms provide native collaborative features, practitioners tend
 not to use these features in typical day-to-day work. Several reasons,
 including costs, such as license fees, force the participants to use a
 single DAW platform by all collaborators. The availability of alternate
-cost-effective cloud storage solutions (such as Dropbox) that can
-provide facilities for audio file-sharing make such features redundant.
-Audio mixing with remote clients by professionals typically entails
-sharing audio files/recordings by an audio engineer, who mixes and
-provides audio files for review and feedback. This method can be an
-iterative process. Professional audio engineers did not envision a need
-for multi-party remote collaboration. Instead, many perceived this
-approach as chaotic, and the audio engineer may lose control of the
-project. When queried for an "ideal" remote collaborative environment
-for audio mixing, a unique insight was that audio engineers envision it
-to be an experience similar in "look and feel", as if all participants
-are working in the "same" studio. That is, all collaborators communicate
-synchronously, similar to an in-studio experience. The audio mixing
-actions of any collaborator is viewed in "real-time" by all and played
-in high-resolution using the studio's equipment. That is, the "virtual
-studio" experience in remote collaboration is similar to an in-studio
-experience. Therefore, any future endeavours for a remote collaborative
-environment should aim to achieve this goal.
+cost-effective cloud storage solutions (such as Dropbox) that can provide
+facilities for audio file-sharing make such features redundant. Audio
+mixing with remote clients by professionals typically entails sharing
+audio files/recordings by an audio engineer, who mixes and provides audio
+files for review and feedback. This method can be an iterative process.
+Professional audio engineers did not envision a need for multi-party
+remote collaboration. Instead, several participants perceived this
+approach as chaotic, leading to the audio engineer losing control of the
+project. When queried for an “ideal” remote collaborative environment for
+audio mixing, a unique insight was that audio engineers envision it to be
+an experience similar in “look and feel” to the participants working in
+the “same” studio. That is, all collaborators communicate synchronously,
+comparable to an in-studio experience. The audio mixing actions of any
+collaborator are viewed in “real-time” by all and played in high-resolution
+using the studio’s equipment. The “virtual studio” experience in remote
+collaboration is similar to an in-studio experience. Given the trend the
+participating engineers suggest, any future endeavours for a remote
+collaborative environment could consider achieving this goal.
 
 # References
 
-Ableton AG (n.d.). Live (Version 11) \[Computer Program\]: Ableton AG.
+Ableton AG (n.d.). Live (Version 11) \[Computer Program\]: Ableton AG. 
 Retrieved 1 August 2021, from https://www.ableton.com/en/live/
 
-Apple Inc. (2021a). GarageBand for Mac (Version 10.4.3) \[Computer
-Program\]: Apple Inc. Retrieved 1 August 2021, from
-https://www.apple.com/au/mac/garageband/
+AmpTrack Technologies AB. (2021). Make music online - Amped Studio online sequencer. 
+Retrieved 1 August 2021, from https://ampedstudio.com/
 
-Apple Inc. (2021b). iCloud. Retrieved 1 August 2021, from
-https://www.icloud.com/
+Apple Inc. (2017). What is Core Audio? 
+Retrieved 16 June 2020, from 
+https://developer.apple.com/library/archive/documentation/MusicAudio/Conceptual/CoreAudioOverview/WhatisCoreAudio/WhatisCoreAudio.html
 
-Apple Inc. (2021c). Logic Pro (Version 10.6) \[Computer Program\]
-Cupertino, United States of America: Apple Inc. Retrieved 28 July 2021,
-from https://www.apple.com/au/logic-pro/
+Apple Inc. (2021a). GarageBand for Mac (Version 10.4.3) \[Computer Program\]: Apple Inc. 
+Retrieved 1 August 2021, from https://www.apple.com/au/mac/garageband/
 
-Avid Technology Inc. (2021). Pro Tools (Version 2021.6) \[Computer
-Program\] Burlington, United States of America: Avid Technology Inc.
+Apple Inc. (2021b). iCloud. 
+Retrieved 1 August 2021, from https://www.icloud.com/
+
+Apple Inc. (2021c). Logic Pro (Version 10.6) \[Computer Program\] Cupertino, United States of America: Apple Inc. 
+Retrieved 28 July 2021, from https://www.apple.com/au/logic-pro/
+
+Audiotool.com. (2021). Audiotool - Free Music Software - Make Music Online In Your Browser. 
+Retrieved 1 August 2021, from https://www.audiotool.com/
+
+Avid Technology Inc. (2021). Pro Tools (Version 2021.6) \[Computer Program\] Burlington, United States of America: Avid Technology Inc. 
 Retrieved 28 July 2021, from https://www.avid.com/pro-tools
 
-BandLab Technologies. (2021). BandLab: Make Music Online. Retrieved 1
-August 2021, from https://www.bandlab.com/
+BandLab Technologies. (2021). BandLab: Make Music Online. 
+Retrieved 1 August 2021, from https://www.bandlab.com/
 
-Cockos Inc. (2021). REAPER (Version 6.33) \[Computer Program\] New York,
-United States: Cockos Inc. Retrieved 18 December 2020, from
-https://www.reaper.fm/download.php?from_reaper=1
+Cockos Inc. (2021). REAPER (Version 6.33) \[Computer Program\] New York, United States: Cockos Inc. 
+Retrieved 18 December 2020, from https://www.reaper.fm/download.php?from_reaper=1
 
-Dropbox Inc. (n.d.). Manage Your Work More Efficiently - Dropbox
-Professional. Retrieved 1 August 2021, from https://www.dropbox.com/pro
+Dropbox Inc. (n.d.). Manage Your Work More Efficiently - Dropbox Professional. 
+Retrieved 1 August 2021, from https://www.dropbox.com/pro
 
-Google LLC. (2020). Google Drive: Free Cloud Storage for Personal Use.
+Google LLC. (2020). Google Drive: Free Cloud Storage for Personal Use. 
 Retrieved 7 March 2020, from https://www.google.com/drive/
 
-Gregory, Mark A. (2019). How to Transition the National Broadband
-Network to Fibre To The Premises. *Journal of Telecommunications and the
-Digital Economy, 7*(1), 57-67. DOI:
-https://www.doi.org/https://www.doi.org/10.18080/jtde.v7n1.182.
+Gregory, Mark A. (2019). How to Transition the National Broadband Network to Fibre To The Premises. 
+*Journal of Telecommunications and the Digital Economy, 7*(1), 57-67. 
+DOI: https://doi.org/https://www.doi.org/10.18080/jtde.v7n1.182
 
-Mark of the Unicorn Inc. (2021). Digital Performer (Version 11)
-\[Computer Program\]: Mark of the Unicorn Inc. Retrieved 1 August 2021,
-from https://motu.com/en-us/products/software/dp/
+Mark of the Unicorn Inc. (2021). Digital Performer (Version 11) \[Computer Program\]: Mark of the Unicorn Inc. 
+Retrieved 1 August 2021, from https://motu.com/en-us/products/software/dp/
 
-Sethi, Rounik. (2018). Top 12 Most Popular DAWs (You Voted For).
-*Ask.Audio*. Retrieved 2 August 2021, from
-https://ask.audio/articles/top-12-most-popular-daws-you-voted-for
+Sethi, Rounik. (2018). Top 12 Most Popular DAWs (You Voted For). *Ask.Audio*. 
+Retrieved 2 August 2021, from https://ask.audio/articles/top-12-most-popular-daws-you-voted-for
 
-Smith, Jonathan A. (2004). Reflecting on the development of
-interpretative phenomenological analysis and its contribution to
-qualitative research in psychology. *Qualitative Research in Psychology,
-1*(1), 39-54. DOI:
-https://www.doi.org/https://doi.org/10.1191/1478088704qp004oa.
+Smith, Jonathan A. (2004). Reflecting on the development of interpretative phenomenological analysis and its contribution to qualitative research in psychology. *Qualitative Research in Psychology, 1*(1), 39-54. DOI: https://doi.org/https://doi.org/10.1191/1478088704qp004oa
 
-Steinberg Media Technologies GmbH (2021a). Cubase Pro (Version 11.0.3)
-\[Computer Program\] Hamburg, Germany: Steinberg Media Technologies
-GmbH. Retrieved 11 November 2020, from
-https://new.steinberg.net/cubase/new-features/
+Splice.com. (2022). Collaborate with Splice Studio \| Splice. 
+Retrieved 4 February 2022, from https://splice.com/features/studio
 
-Steinberg Media Technologies GmbH. (2021b). VST Transit: Music cloud
-collaboration \| Steinberg. Retrieved 1 August 2021, from
-https://new.steinberg.net/vst-transit/?et_cid=15&et_lid=22&et_sub=VST%2520Transit
-Waves Audio Ltd. (2021). Tracks Live - Multitrack Recording Software \|
-Waves. Retrieved 1 August 2021, from
-https://www.waves.com/mixers-racks/tracks-live#presenting-tracks-live
+Spotify USA / Spotify AB. (2021). Soundtrap - Make music online. 
+Retrieved 1 August 2021, from https://www.soundtrap.com/
 
-WeTransfer. (2021). Products \| WeTransfer. Retrieved 1 August 2021,
-from https://about.wetransfer.com/en/products/
+Steinberg Media Technologies GmbH. (2020). Technologies \| Steinberg. 
+Retrieved 17 June 2020, from https://www.steinberg.net/en/company/technologies.html
+
+Steinberg Media Technologies GmbH (2021a). Cubase Pro (Version 11.0.3) \[Computer Program\] Hamburg, Germany: Steinberg Media Technologies GmbH. 
+Retrieved 11 November 2020, from https://new.steinberg.net/cubase/new-features/
+
+Steinberg Media Technologies GmbH. (2021b). VST Transit: Music cloud collaboration \| Steinberg. 
+Retrieved 1 August 2021, from https://new.steinberg.net/vst-transit/?et_cid=15&et_lid=22&et_sub=VST%2520Transit
+
+wac2017 qmul. (2017). *Web Audio Conference 2017 (WAC2017 QMUL) Day 1 - Afternoon* \[Video File\] 
+Retrieved 2 June 2020, from https://www.youtube.com/watch?v=OpUeyRRPpCo&feature=youtu.be&t=957
+
+Waves Audio Ltd. (2021). Tracks Live - Multitrack Recording Software \| Waves. 
+Retrieved 1 August 2021, from https://www.waves.com/mixers-racks/tracks-live#presenting-tracks-live
+
+WeTransfer. (2021). Products \| WeTransfer. 
+Retrieved 1 August 2021, from https://about.wetransfer.com/en/products/
 
 # Appendix: Interview Guide Questions
 
@@ -1120,3 +1149,4 @@ capabilities).
 If not already mentioned, how useful would it be to extend this
 collaboration functionality and workflow to multiple remote
 engineers/producers in real-time? If so, in what way?
+
