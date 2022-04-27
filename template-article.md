@@ -1084,7 +1084,7 @@ Retrieved 1 August 2021, from <https://motu.com/en-us/products/software/dp/>
 Sethi, Rounik. (2018). Top 12 Most Popular DAWs (You Voted For). *Ask.Audio*. 
 Retrieved 2 August 2021, from <https://ask.audio/articles/top-12-most-popular-daws-you-voted-for>
 
-Smith, Jonathan A. (2004). Reflecting on the development of interpretative phenomenological analysis and its contribution to qualitative research in psychology. *Qualitative Research in Psychology, 1*(1), 39-54. DOI: [10.1191/1478088704qp004oa](https://doi.org/10.1191/1478088704qp004oa)
+Smith, Jonathan A. (2004). Reflecting on the development of interpretative phenomenological analysis and its contribution to qualitative research in psychology. *Qualitative Research in Psychology, 1*(1), 39-54. DOI: [10.1191/1478088704qp004oa](https://doi.org/10.1191/1478088704qp004oa). [https://www.tandfonline.com/doi/abs/10.1191/1478088704qp004oa](https://www.tandfonline.com/doi/abs/10.1191/1478088704qp004oa)
 
 Splice.com. (2022). Collaborate with Splice Studio \| Splice. 
 Retrieved 4 February 2022, from <https://splice.com/features/studio>
