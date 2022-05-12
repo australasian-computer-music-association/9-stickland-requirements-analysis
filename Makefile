@@ -1,5 +1,5 @@
 DOC_NAME=template-article.md
-OUT_NAME=rendered-article
+OUT_NAME=9-stickland-requirements-analysis
 REFS_FILE=references.bib
 CSL_FILE=templates/apa.csl
 LATEX_TEMPLATE=templates/chroma-article.tex
