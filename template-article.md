@@ -16,6 +16,10 @@ bibliography: 'references'
 papersize: a4
 classoption: 12pt
 reference-section-title: 'References'
+year: 2022
+volume: 38
+number: 1
+article-no: 1
 ---
 
 # Introduction
