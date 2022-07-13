@@ -95,6 +95,19 @@ $if(csl-refs)$
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 $endif$
 
+% License Footnote
+\newcommand\extrafootertext[1]{%
+    \bgroup
+    \renewcommand\thefootnote{\fnsymbol{footnote}}%
+    \renewcommand\thempfootnote{\fnsymbol{mpfootnote}}%
+    \footnotetext[0]{#1}%
+    \egroup
+}
+\newcommand{\licensedetails}{\hspace{-2\parindent} Licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Copyright remains with the author(s).}
+\AtBeginDocument{
+  \extrafootertext{\licensedetails}
+}
+
 $for(header-includes)$
 $header-includes$
 $endfor$
@@ -163,7 +176,9 @@ $for(author)$
 \sffamily \Large $author.name$\vspace{1.2mm} \newline
 \rmfamily \normalsize\emph{$author.affiliation$} \newline
 \rmfamily \footnotesize \url{$author.email$}\newline 
-$if(author.orcid)$\rmfamily  ORCID: \href{$author.orcid$}{$author.orcid$}$endif$\vspace*{5mm}\newline 
+$if(author.orcid)$\rmfamily  ORCID: \href{$author.orcid$}{$author.orcid$}$endif$
+% \vspace*{5mm}
+% \newline 
 $sep$
 $endfor$
 \sffamily \normalsize $date$

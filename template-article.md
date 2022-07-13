@@ -4,11 +4,11 @@ date: '2021-11-12'
 anonymous: 'false'
 author: 
     - name: Scott Stickland
-      affiliation: School of Creative Industries, The University of Newcastle, Australia
+      affiliation: School of Humanities, Creative Industries and Social Sciences, The University of Newcastle, Australia
     - name: Rukshan Athauda
       affiliation: School of Information and Physical Sciences, The University of Newcastle, Australia
     - name: Nathan Scott
-      affiliation: School of Creative Industries, The University of Newcastle, Australia
+      affiliation: School of Humanities, Creative Industries and Social Sciences, The University of Newcastle, Australia
 author-header: S. Stickland, R. Athauda, and N. Scott
 abstract: |
 	Digital audio workstations (DAWs) play a critical role in audio mixing and post-production activities, facilitating audio engineers and clients to work collaboratively in a studio environment. The coronavirus pandemic brought into focus the need to carry out these activities in an effective manner with remote participants. This article explores the requirements for an optimal remote collaboration platform to facilitate post-production audio mixing through a qualitative study. We interviewed a group of Australian-based professional music/sound practitioners about their use of DAWs, work-case scenarios, use of remote control and collaboration features, and perspectives for an "ideal" remote collaborative music post-production environment. We derived several insights from the analysis of this data that can inform the design and development of a new collaboration platform. The evidence showed that the most common practice for remote mixing collaboration is an iterative process of sharing audio files/recordings with audio engineers who perform mixing/post-production work, which is shared back with clients for feedback asynchronously. Professional audio mixing practitioners do not typically engage in real-time remote collaboration outside of remote one-to-one sound source recording because synchronous post-production collaboration methods are unavailable. Our analysis derives a vision for such a platform: a "virtual" remote collaboration environment that emulates an in-studio experience.
@@ -74,64 +74,21 @@ Six questions served as the interview guide and discussion starting
 points and appear in the Appendix. As such, this article's structure
 consists of six discrete sections that inductively analyse the responses
 to the interview questions and any related follow-up questions, followed
-by a Discussion section.
-
-Table 1 summarises the research participant information.
+by a Discussion section. Table 1 summarises the research participant information.
 
 
-+-------------+-------------+-------------+-------------+-------------+
-|             | **Base of   | **Studio    | **Typical   | **Experience|
-|             | Operations  | Owner/      | Work        | (Years)**   |
-|             | (Australian | Operator /  | Scenarios** |             |
-|             | State)**    | Freelance** |             |             |
-+=============+=============+=============+=============+=============+
-| Mixing      | Victoria    | Owner/      | Studio      | 10 +        |
-| Engineer 1  |             | Operator    | Mixing /    |             |
-|             |             |             | Recording   |             |
-| (ME01)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Victoria    | Owner/      | Studio      | 15 +        |
-| Engineer 2  |             | Operator    | Mixing /    |             |
-|             |             |             | Recording   |             |
-| (ME02)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | New South   | Owner/      | Studio      | 25 +        |
-| Engineer 3  | Wales       | Operator    | Mixing /    |             |
-|             |             |             | Recording   |             |
-| (ME03)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Victoria    | Freelance   | Live /      | 25 +        |
-| Engineer 4  |             |             | Studio      |             |
-|             |             |             | Mixing      |             |
-| (ME04)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Victoria    | Owner/      | Studio      | 15 +        |
-| Engineer 5  |             | Operator    | Mixing /    |             |
-|             |             |             | Recording   |             |
-| (ME05)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Western     | Owner/      | Studio      | 20 +        |
-| Engineer 6  | Australia   | Operator    | Mixing /    |             |
-|             |             |             | Recording   |             |
-| (ME06)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Queensland  | Freelance   | Studio      | 20 +        |
-| Engineer 7  |             |             | Mixing /    |             |
-|             |             |             | Recording   |             |
-| (ME07)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | New South   | Owner/      | Studio      | 10 +        |
-| Engineer 8  | Wales       | Operator    | Mixing      |             |
-|             |             |             |             |             |
-| (ME08)      |             | Freelance   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Mixing      | Victoria    | Owner/      | Live /      | 30 +        |
-| Engineer 9  |             | Operator    | Studio      |             |
-|             |             |             | Mixing      |             |
-| (ME09)      |             | Freelance   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-:The Recruited Audio Mixing Engineers -- Statistical Information
-
+| **Mixing Engineer (ME)** | **Base of Operations (Australian State)** | **Studio Owner/ Operator / Freelance** | **Typical Work Scenarios** | **Experience (Years)** |
+|--------------------------|-------------------------------------------|----------------------------------------|----------------------------|------------------------|
+| ME01 | Victoria                                  | Owner/Operator                         | Studio Mixing / Recording  | 10 +                   |
+| ME02 | Victoria                                  | Owner/Operator                         | Studio Mixing / Recording  | 15 +                   |
+| ME03 | New South Wales                           | Owner/Operator                         | Studio Mixing / Recording  | 25 +                   |
+| ME04 | Victoria                                  | Freelance                              | Live/Studio Mixing         | 25 +                   |
+| ME05 | Victoria                                  | Owner/Operator                         | Studio Mixing/Recording    | 15 +                   |
+| ME06 | Western Australia                         | Owner/Operator                         | Studio Mixing/Recording    | 20 +                   |
+| ME07 | Queensland                                | Freelance                              | Studio Mixing / Recording  | 20 +                   |
+| ME08 | New South Wales                           | Owner/Operator  Freelance              | Studio Mixing              | 10 +                   |
+| ME09 | Victoria                                  | Owner/Operator  Freelance              | Live / Studio Mixing       | 30 +                   |
+:Statistical information on the recruited mixing engineers
 
 # Participant Responses
 
@@ -211,7 +168,7 @@ software:
 ### The Range of DAW Platforms 
 
 All told, the participants mentioned a total of nine DAW platforms, with
-six used in their typical audio engineering and mixing work:
+six used in their typical audio engineering and mixing work (a \* represents DAWs mentioned but not used by the participants):
 
 1.  BandLab Technologies' *BandLab*\* (BandLab Technologies, 2021);
 
@@ -231,8 +188,6 @@ six used in their typical audio engineering and mixing work:
 8.  Cockos' *REAPER* (Cockos Inc., 2021); and
 
 9.  Waves' *Tracks Live* (Waves Audio Ltd., 2021).
-
-\* DAWs mentioned but not used by the participants.
 
 One of the DAW platforms mentioned but not used by two participants was
 *BandLab* (BandLab Technologies, 2021), the only web browser-based DAW
@@ -296,9 +251,9 @@ platform between studio and live environments. Both engineers who
 perform live recordings favour a DAW platform known for its reliability
 but is not necessarily as sophisticated as those employed in the studio
 environment. ME03 stated that the choice of using *Tracks Live* or
-*REAPER* for live work is because "*those platforms are arguably the
+*REAPER* for live work is because "those platforms are arguably the
 most stripped-down, featureless, boring set-ups around, but that's why I
-use them*."
+use them."
 
 Nevertheless, *Pro Tools* was the most used and referred to DAW platform
 in the sample, exclusively utilised by two participants and in
@@ -513,24 +468,24 @@ themes:
     Collaboration*, there are aspects of its workflow that are not fully
     understood:
 
-    -   *"It's definitely something I'm interested in, and I can see it
+    -   "It's definitely something I'm interested in, and I can see it
         being... a great thing in the future, but... the problem is it
         relies on everyone having the same set-up and no one screwing
         the files up, and they're two things I'm very precious about."
-        -ME01*
+        -ME01
 
 -   *Cloud Collaboration's* practice of file sharing through cloud
     storage is a collaboration method already exploited by the
     practitioners through existing third-party cloud storage platforms:
 
-    -   *"My other thing with it, you only get that 1 GB of storage
+    -   "My other thing with it, you only get that 1 GB of storage
         unless you pay for more... I've already paid for enough
-        subscriptions with Dropbox." -ME04*
+        subscriptions with Dropbox." -ME04
 
-    -   *"I haven't used it cause it's so similar to what I already do.
+    -   "I haven't used it cause it's so similar to what I already do.
         Seriously, the only difference I could see from... what I
         usually do using Dropbox is saving a bit of time importing
-        changes directly into Pro Tools." -ME05*
+        changes directly into Pro Tools." -ME05
 
 -   Despite employing lossless file compression to maximise cloud
     storage, users will typically require increased storage capacity the
@@ -539,15 +494,15 @@ themes:
     participants were unwilling to bear, as seen in ME04's comment above
     for instance:
 
-    -   *"If you want to pay for the Pro Tools subscription, you pay for
+    -   "If you want to pay for the Pro Tools subscription, you pay for
         that and... I don't want to pay more money... for something that
-        works, but it only works for Pro Tools." -ME04*
+        works, but it only works for Pro Tools." -ME04
 
-    -   *"The more you use it, the more storage space you need, and
+    -   "The more you use it, the more storage space you need, and
         they're asking for another \$300 US for the privilege. That
         difference isn't worth \$400 a year when I already pay a yearly
         Dropbox subscription that essentially does the same thing."
-        -ME05*
+        -ME05
 
 -   ME02 provided a different perspective on the theme of an additional
     cost. Owing to the choice of hardware, also produced by Avid, that
@@ -557,22 +512,22 @@ themes:
     participant uses does not feature *Cloud Collaboration.* As ME02
     describes the dilemma:
 
-    -   "\[With\] *my HD Native Thunderbolt* \[interface\]*, for me to
+    -   "\[With\] *my HD Native Thunderbolt* \[interface\], for me to
         upgrade to the latest version of Pro Tools... Avid wanted
         something like... around \$900 US or something in that vicinity
         for the driver. It's something I've already paid like \$8000
         for... I don't see why I should have to pay that much money."
-        -ME02*
+        -ME02
 
 -   ME04 also discussed a prerequisite for this collaboration model with
     other colleagues: each person requires *Pro Tools*. However, as the
     participant pointed out, this prerequisite cannot be taken for
     granted:
 
-    -   *"I work with a lot of artists, especially recently* \[who are\]
-        *running Ableton or running Logic or running GarageBand for Mac.
-        You can't tell them to go get Pro Tools just to do a*
-        \[collaboration\] *session." -ME04*
+    -   "I work with a lot of artists, especially recently \[who are\]
+        running Ableton or running Logic or running GarageBand for Mac.
+        You can't tell them to go get Pro Tools just to do a
+        \[collaboration\] session." -ME04
 
 ### Steinberg's Cubase Pro: VST Connect and VST Transit
 
@@ -904,7 +859,7 @@ necessary or believed a multiparty collaboration would be unworkable:
 There are several crucial findings evident in the totality of responses
 from the nine participating audio engineers:
 
-**The DAW Platform**
+## The DAW Platform
 
 While, undoubtedly, Avid's *Pro Tools* appeared to be the most popular
 platform of choice, it was by no means the only one that studios and
@@ -917,9 +872,9 @@ equally as well.
 
 An industry-based inquiry, conducted in 2017 by Ask.Audio, a website
 resource for "digital music makers" (Sethi, 2018), reflected this
-pattern of DAW use. 30, 611 survey responses determined the top-12
+pattern of DAW use. 30,611 survey responses determined the top-12
 primary-use DAW platforms, according to the musicians and producers who
-participated. The fact that a top-12 illustrates the breadth of the
+participated. The fact that a top-12 exists illustrates the breadth of the
 global DAW market; nevertheless, the four applications with the highest
 userbase were: *Ableton Live*, *Logic Pro*, *Pro Tools* and *Cubase*
 (see Figure 4). This result aligned with the interview data and pointed
@@ -931,7 +886,7 @@ of DAW platform (Adapted from (Sethi, 2018))](./media/image4.png){width="5.70914
 height="3.4242760279965005in"}
 
 
-**The Prevailing Use of Keyboard Shortcuts and Control Surfaces**
+## The Prevailing Use of Keyboard Shortcuts and Control Surfaces
 
 The prevalence and intrinsic use of keyboard shortcuts, evidenced in the
 participants' responses, spoke to the importance of time-efficient and
@@ -940,7 +895,7 @@ pointed to a current or intended addition of a control surface to their
 typical DAW operation and mixing practices, again iterating the
 advantages of their use.
 
-**The Uptake of DAW-Specific Remote Collaboration Features**
+## The Uptake of DAW-Specific Remote Collaboration Features
 
 Taking an overarching view of the interview responses, the most
 prominent finding was, of those participants whose chosen DAW platform
@@ -963,8 +918,9 @@ described a synchronous means of remote collaboration, in this instance,
 running a concurrent videoconferencing application while conducting an
 in-studio voice-over session.
 
-**Industry Expectations of Real-Time Remote Music Mixing and Production
-Collaboration** Asking participants to enumerate the prominent features
+## Industry Expectations of Real-Time Remote Music Mixing and Production Collaboration 
+
+Asking participants to enumerate the prominent features
 and capabilities a hypothetical "ideal" real-time remote collaborative
 environment provided the following shortlist of features:
 
@@ -982,8 +938,7 @@ environment provided the following shortlist of features:
 4.  A collaborative environment and mode of operation that closely
     aligns with the experience of working in person in the studio.
 
-**The Perceived Utility of Remote Multiparty Music Mixing and Production
-Collaboration**
+## The Perceived Utility of Remote Multiparty Music Mixing and Production Collaboration
 
 Most of the participants' responses did not support the need for a
 multiparty capability. However, ME03 favoured a collaborative
